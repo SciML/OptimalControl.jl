@@ -4,7 +4,6 @@
 [![Build Status](https://travis-ci.org/JuliaDiffEq/DiffEqOptimalControl.jl.svg?branch=master)](https://travis-ci.org/JuliaDiffEq/DiffEqOptimalControl.jl)
 [![Build status](https://ci.appveyor.com/api/projects/status/qpmc78d48iv8vns2?svg=true)](https://ci.appveyor.com/project/ChrisRackauckas/diffeqoptimalcontrol-jl)
 [![Coverage Status](https://coveralls.io/repos/JuliaDiffEq/DiffEqOptimalControl.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/JuliaDiffEq/DiffEqOptimalControl.jl?branch=master)
-
 [![codecov.io](http://codecov.io/github/JuliaDiffEq/DiffEqOptimalControl.jl/coverage.svg?branch=master)](http://codecov.io/github/JuliaDiffEq/DiffEqOptimalControl.jl?branch=master)
 
 DiffEqOptimalControl.jl is a component package in the DifferentialEquations ecosystem. It holds the
